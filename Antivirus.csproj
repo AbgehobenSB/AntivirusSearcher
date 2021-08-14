@@ -62,7 +62,6 @@
     <Compile Include="AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="download.ico" />
     <Content Include="shield-png-1.ico" />
   </ItemGroup>
   <ItemGroup>
