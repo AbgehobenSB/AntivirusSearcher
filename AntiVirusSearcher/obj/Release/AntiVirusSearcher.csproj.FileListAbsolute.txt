@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\bin\Release\AntiVirusSearcher.exe.config
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\bin\Release\AntiVirusSearcher.exe
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\bin\Release\AntiVirusSearcher.pdb
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\obj\Release\AntiVirusSearcher.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\obj\Release\AntiVirusSearcher.Properties.Resources.resources
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\obj\Release\AntiVirusSearcher.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\obj\Release\AntiVirusSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\obj\Release\AntiVirusSearcher.exe
+C:\Users\Admin\source\repos\AntiVirusSearcher\AntiVirusSearcher\obj\Release\AntiVirusSearcher.pdb
